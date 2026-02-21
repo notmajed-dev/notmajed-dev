@@ -1,5 +1,11 @@
-# Majed 👋
+<h1 align="center">Hey, I'm Majed 👋</h1>
 
-Web Developer
+<p align="center">
+  💻 Web Developer <br/>
+  Turning ☕ into code since... recently <br/>
+  Currently debugging my life one console.log at a time.
+</p>
 
-![Majed's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmajed-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  🚀 Building cool stuff on the web  
+</p>
